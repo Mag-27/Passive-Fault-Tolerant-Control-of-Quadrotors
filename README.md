@@ -2,8 +2,6 @@
 
 This repository contains the MATLAB/Simulink simulation model and the comprehensive undergraduate thesis report for the project titled **"ROBUST FAULT TOLERANT CONTROLLER FOR QUADROTORS USING INCREMENTAL NONLINEAR DYNAMIC INVERSION"**.
 
-The primary objective of this project is to stabilize a quadrotor in the event of actuator or propeller faults (such as a lock-in place, float, or hard-over hardware failures) and improve tracking performance so the quadrotor can land safely.
-
 ## Repository Contents
 
 * **`INDI_QUAD_2021a.slx`**: The main Simulink model containing the nonlinear quadrotor simulation platform and the implemented controller.
